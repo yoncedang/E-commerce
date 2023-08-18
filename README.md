@@ -16,4 +16,5 @@ SPACES_SECRET= Your SPACES_SECRET on DigitalOcean
 Run project
 
 install in terminal: yarn install
+
 to rung: yarn start
