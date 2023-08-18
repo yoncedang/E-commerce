@@ -13,8 +13,10 @@ CRYPTO_KEY=181199
 SPACES_SECRET= Your SPACES_SECRET on DigitalOcean
 
 
-Run project
+GUIDE RUN PROJECT.
 
-install in terminal: yarn install
+1: Download project
 
-to rung: yarn start
+2: install in terminal: yarn install
+
+3: to run: yarn start
